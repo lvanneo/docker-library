@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-dnsmasq:1.10.1
+FROM gcr.io/google_containers/k8s-dns-dnsmasq-amd64:1.12.1
 MAINTAINER mritd <mritd@mritd.me>
