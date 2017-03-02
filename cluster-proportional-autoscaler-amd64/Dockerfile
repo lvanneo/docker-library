@@ -1,0 +1,2 @@
+FROM gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.0.0
+MAINTAINER mritd <mritd@mritd.me>
