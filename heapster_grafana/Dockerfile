@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/heapster_grafana:v3.1.1 
+FROM gcr.io/google_containers/heapster_grafana:v4.0.2
 MAINTAINER mritd <mritd@mritd.me>
