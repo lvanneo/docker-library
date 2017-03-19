@@ -1,2 +1,2 @@
-FROM kubernetes/heapster_influxdb:v0.10.3
+FROM gcr.io/google_containers/heapster_influxdb:v1.1.1
 MAINTAINER mritd <mritd@mritd.me>
