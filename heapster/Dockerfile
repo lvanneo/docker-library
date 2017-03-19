@@ -1,2 +1,2 @@
-FROM kubernetes/heapster:v1.3.0
+FROM kubernetes/heapster:v1.2.0
 MAINTAINER mritd <mritd@mritd.me>

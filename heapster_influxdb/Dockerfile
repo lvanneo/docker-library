@@ -1,2 +1,2 @@
-FROM kubernetes/heapster_influxdb:v1.1.1
+FROM kubernetes/heapster_influxdb:v0.10.3
 MAINTAINER mritd <mritd@mritd.me>
