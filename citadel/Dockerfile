@@ -1,2 +1,2 @@
-FROM gcr.io/istio-release/citadel:1.0.1
+FROM gcr.io/istio-release/citadel:1.1.0.snapshot.0
 MAINTAINER lvanneo <lvan_software@foxmail.com>
